@@ -5,6 +5,8 @@
 <img align="right" alt="Coding GIF" width="400" 
      src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" 
      style="margin-bottom: 20px;" />
+     
+---
 
 - 🎓 Electrical Undergrad at Delhi Technological University.
 
