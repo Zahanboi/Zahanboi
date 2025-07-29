@@ -2,11 +2,11 @@
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="👋">, I'm Jahan Sharma
 </h1>
 
+---
+
 <img align="right" alt="Coding GIF" width="400" 
      src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" 
      style="margin-bottom: 20px;" />
-     
----
 
 - 🎓 Electrical Undergrad at Delhi Technological University.
 
