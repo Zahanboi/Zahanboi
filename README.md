@@ -14,13 +14,13 @@
 ---
 
 ### ⚙️ Languages and Tools:
-<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,nodejs,react,mongodb,firebase,ts,php,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css,nodejs,react,mongodb,mysql,git,github,vscode" />
 
 ---
 
 ### 📈 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=Zahanboi&show_icons=true&theme=radical)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Zahanboi&theme=radical)
 
 ---
