@@ -4,6 +4,8 @@
 - 💻 I'm interested in Web Dev, DSA, and Core CS.
 - 📚 Currently learning DSA and DevOps.
 - 📫 How to reach me: **zahansharma123@gmail.com**
+- 🪴 Check out all my projects here: [![Linktree](https://img.shields.io/badge/Linktree-Zahanboi-green?style=flat&logo=linktree)](https://linktr.ee/Zahanboi)
+
 
 ---
 
