@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm Jahan Sharma</h1>
 
-- 🎓 CSE Undergrad at [Your University].
-- 💻 I'm interested in Web Dev, ML, and System Design.
-- 📚 Currently learning DSA and Deep Learning.
-- 💬 Ask me about **C++, Python, and React**.
-- 📫 How to reach me: **yourname123@gmail.com**
+- 🎓 Electrical Undergrad at Delhi Technological University.
+- 💻 I'm interested in Web Dev, DSA, and Core CS.
+- 📚 Currently learning DSA and DevOps.
+- 📫 How to reach me: **zahansharma123@gmail.com**
 
 ---
 
 ### 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/your-handle)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/jahansharma)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Zahanboi)
 
 ---
 
