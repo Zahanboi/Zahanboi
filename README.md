@@ -105,11 +105,5 @@
 ### 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zahanboi&show_icons=true&theme=radical&cache_seconds=1800" />
-</p>
-
-[![GitHub Streak](https://github-readme-streak-stats-taj3.vercel.app/?user=Zahanboi)](https://git.io/streak-stats)
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zahanboi&theme=radical" />
+  <img src="https://github-readme-streak-stats-taj3.vercel.app?user=Zahanboi&theme=ocean-dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
