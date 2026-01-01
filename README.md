@@ -108,6 +108,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Zahanboi&show_icons=true&theme=radical&cache_seconds=1800" />
 </p>
 
+[![GitHub Streak](https://github-readme-streak-stats-taj3.vercel.app/?user=Zahanboi)](https://git.io/streak-stats)
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zahanboi&theme=radical" />
 </p>
