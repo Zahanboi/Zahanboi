@@ -107,7 +107,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zahanboi&show_icons=true&theme=radical&cache_seconds=1800" />
 </p>
-[![Zahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zahanboi)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zahanboi&theme=radical" />
