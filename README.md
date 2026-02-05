@@ -105,5 +105,5 @@
 ### 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-taj3.vercel.app?user=Zahanboi&theme=ocean-dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-taj3.vercel.app?user=Zahanboi" alt="GitHub Streak" /></a>
 </p>
