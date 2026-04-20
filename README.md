@@ -24,7 +24,7 @@
 
 ### 🔗 Connect with me:
 
-<p align="left">
+<span>
   <a href="https://www.linkedin.com/in/jahansharma" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Jahan Sharma" height="30" width="40" />
   </a>
@@ -38,17 +38,14 @@
   />
 </a>
 
-
-
-
-</p>
+</span>
 
 
 ---
 
 ### ⚙️ Languages and Tools:
 
-<p align="left">
+<p >
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
